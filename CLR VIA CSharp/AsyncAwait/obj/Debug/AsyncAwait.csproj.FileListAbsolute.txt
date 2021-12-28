@@ -1,7 +1,0 @@
-D:\Google Drive Main\Education\CLR VIA CSharp\AsyncAwait\bin\Debug\AsyncAwait.exe.config
-D:\Google Drive Main\Education\CLR VIA CSharp\AsyncAwait\bin\Debug\AsyncAwait.exe
-D:\Google Drive Main\Education\CLR VIA CSharp\AsyncAwait\bin\Debug\AsyncAwait.pdb
-D:\Google Drive Main\Education\CLR VIA CSharp\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
-D:\Google Drive Main\Education\CLR VIA CSharp\AsyncAwait\obj\Debug\AsyncAwait.exe
-D:\Google Drive Main\Education\CLR VIA CSharp\AsyncAwait\obj\Debug\AsyncAwait.pdb
-D:\Google Drive Main\Education\CLR VIA CSharp\AsyncAwait\obj\Debug\AsyncAwait.csproj.AssemblyReference.cache

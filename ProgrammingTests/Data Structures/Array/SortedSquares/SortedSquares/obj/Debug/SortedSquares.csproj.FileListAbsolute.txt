@@ -1,7 +1,0 @@
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\SortedSquares\SortedSquares\obj\Debug\SortedSquares.csproj.AssemblyReference.cache
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\SortedSquares\SortedSquares\obj\Debug\SortedSquares.csproj.CoreCompileInputs.cache
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\SortedSquares\SortedSquares\bin\Debug\SortedSquares.exe.config
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\SortedSquares\SortedSquares\bin\Debug\SortedSquares.exe
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\SortedSquares\SortedSquares\bin\Debug\SortedSquares.pdb
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\SortedSquares\SortedSquares\obj\Debug\SortedSquares.exe
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\SortedSquares\SortedSquares\obj\Debug\SortedSquares.pdb

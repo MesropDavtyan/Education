@@ -1,6 +1,0 @@
-/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/PlusOne/PlusOne/bin/Debug/PlusOne.exe
-/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/PlusOne/PlusOne/bin/Debug/PlusOne.pdb
-/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/PlusOne/PlusOne/obj/Debug/PlusOne.csproj.CoreCompileInputs.cache
-/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/PlusOne/PlusOne/obj/Debug/PlusOne.exe
-/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/PlusOne/PlusOne/obj/Debug/PlusOne.pdb
-/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/PlusOne/PlusOne/obj/Debug/PlusOne.csproj.AssemblyReference.cache

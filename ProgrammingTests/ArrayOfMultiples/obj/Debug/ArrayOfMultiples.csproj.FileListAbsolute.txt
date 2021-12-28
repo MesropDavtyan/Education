@@ -1,7 +1,0 @@
-D:\Google Drive Main\Education\ProgrammingTests\ArrayOfMultiples\bin\Debug\ArrayOfMultiples.exe.config
-D:\Google Drive Main\Education\ProgrammingTests\ArrayOfMultiples\bin\Debug\ArrayOfMultiples.exe
-D:\Google Drive Main\Education\ProgrammingTests\ArrayOfMultiples\bin\Debug\ArrayOfMultiples.pdb
-D:\Google Drive Main\Education\ProgrammingTests\ArrayOfMultiples\obj\Debug\ArrayOfMultiples.csproj.CoreCompileInputs.cache
-D:\Google Drive Main\Education\ProgrammingTests\ArrayOfMultiples\obj\Debug\ArrayOfMultiples.exe
-D:\Google Drive Main\Education\ProgrammingTests\ArrayOfMultiples\obj\Debug\ArrayOfMultiples.pdb
-D:\Google Drive Main\Education\ProgrammingTests\ArrayOfMultiples\obj\Debug\ArrayOfMultiples.csproj.AssemblyReference.cache

@@ -1,7 +1,0 @@
-D:\OneDrive - EPAM\Education\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
-D:\OneDrive - EPAM\Education\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
-D:\OneDrive - EPAM\Education\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
-D:\OneDrive - EPAM\Education\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
-D:\OneDrive - EPAM\Education\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
-D:\OneDrive - EPAM\Education\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
-D:\OneDrive - EPAM\Education\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

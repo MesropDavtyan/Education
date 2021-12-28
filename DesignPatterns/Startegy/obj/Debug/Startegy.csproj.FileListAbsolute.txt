@@ -1,7 +1,0 @@
-D:\OneDrive - EPAM\Education\DesignPatterns\Startegy\bin\Debug\Startegy.exe.config
-D:\OneDrive - EPAM\Education\DesignPatterns\Startegy\bin\Debug\Startegy.exe
-D:\OneDrive - EPAM\Education\DesignPatterns\Startegy\bin\Debug\Startegy.pdb
-D:\OneDrive - EPAM\Education\DesignPatterns\Startegy\obj\Debug\Startegy.csprojAssemblyReference.cache
-D:\OneDrive - EPAM\Education\DesignPatterns\Startegy\obj\Debug\Startegy.csproj.CoreCompileInputs.cache
-D:\OneDrive - EPAM\Education\DesignPatterns\Startegy\obj\Debug\Startegy.exe
-D:\OneDrive - EPAM\Education\DesignPatterns\Startegy\obj\Debug\Startegy.pdb

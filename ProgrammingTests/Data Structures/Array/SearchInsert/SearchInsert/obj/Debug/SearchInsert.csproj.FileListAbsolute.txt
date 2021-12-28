@@ -1,7 +1,0 @@
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\SearchInsert\SearchInsert\bin\Debug\SearchInsert.exe.config
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\SearchInsert\SearchInsert\bin\Debug\SearchInsert.exe
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\SearchInsert\SearchInsert\bin\Debug\SearchInsert.pdb
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\SearchInsert\SearchInsert\obj\Debug\SearchInsert.csproj.AssemblyReference.cache
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\SearchInsert\SearchInsert\obj\Debug\SearchInsert.csproj.CoreCompileInputs.cache
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\SearchInsert\SearchInsert\obj\Debug\SearchInsert.exe
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\SearchInsert\SearchInsert\obj\Debug\SearchInsert.pdb

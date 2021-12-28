@@ -1,5 +1,0 @@
-/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/PalindromeNumber/PalindromeNumber/bin/Debug/PalindromeNumber.exe
-/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/PalindromeNumber/PalindromeNumber/bin/Debug/PalindromeNumber.pdb
-/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/PalindromeNumber/PalindromeNumber/obj/Debug/PalindromeNumber.csproj.CoreCompileInputs.cache
-/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/PalindromeNumber/PalindromeNumber/obj/Debug/PalindromeNumber.exe
-/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/PalindromeNumber/PalindromeNumber/obj/Debug/PalindromeNumber.pdb

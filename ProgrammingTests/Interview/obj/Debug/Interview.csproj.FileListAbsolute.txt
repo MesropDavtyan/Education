@@ -1,6 +1,0 @@
-D:\Google Drive Main\Education\ProgrammingTests\Interview\bin\Debug\Interview.exe.config
-D:\Google Drive Main\Education\ProgrammingTests\Interview\bin\Debug\Interview.exe
-D:\Google Drive Main\Education\ProgrammingTests\Interview\bin\Debug\Interview.pdb
-D:\Google Drive Main\Education\ProgrammingTests\Interview\obj\Debug\Interview.csproj.CoreCompileInputs.cache
-D:\Google Drive Main\Education\ProgrammingTests\Interview\obj\Debug\Interview.exe
-D:\Google Drive Main\Education\ProgrammingTests\Interview\obj\Debug\Interview.pdb

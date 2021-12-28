@@ -1,6 +1,0 @@
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Queue\QueueLinkedList\bin\Debug\QueueLinkedList.exe.config
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Queue\QueueLinkedList\bin\Debug\QueueLinkedList.exe
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Queue\QueueLinkedList\bin\Debug\QueueLinkedList.pdb
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Queue\QueueLinkedList\obj\Debug\QueueLinkedList.csproj.CoreCompileInputs.cache
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Queue\QueueLinkedList\obj\Debug\QueueLinkedList.exe
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Queue\QueueLinkedList\obj\Debug\QueueLinkedList.pdb

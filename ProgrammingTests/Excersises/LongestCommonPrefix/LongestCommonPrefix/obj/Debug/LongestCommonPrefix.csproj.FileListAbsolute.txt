@@ -1,5 +1,0 @@
-/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/LongestCommonPrefix/LongestCommonPrefix/bin/Debug/LongestCommonPrefix.exe
-/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/LongestCommonPrefix/LongestCommonPrefix/bin/Debug/LongestCommonPrefix.pdb
-/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/LongestCommonPrefix/LongestCommonPrefix/obj/Debug/LongestCommonPrefix.csproj.CoreCompileInputs.cache
-/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/LongestCommonPrefix/LongestCommonPrefix/obj/Debug/LongestCommonPrefix.exe
-/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/LongestCommonPrefix/LongestCommonPrefix/obj/Debug/LongestCommonPrefix.pdb

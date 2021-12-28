@@ -1,6 +1,0 @@
-/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/LengthOfLastWord/LengthOfLastWord/bin/Debug/LengthOfLastWord.exe
-/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/LengthOfLastWord/LengthOfLastWord/bin/Debug/LengthOfLastWord.pdb
-/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/LengthOfLastWord/LengthOfLastWord/obj/Debug/LengthOfLastWord.csproj.AssemblyReference.cache
-/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/LengthOfLastWord/LengthOfLastWord/obj/Debug/LengthOfLastWord.csproj.CoreCompileInputs.cache
-/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/LengthOfLastWord/LengthOfLastWord/obj/Debug/LengthOfLastWord.exe
-/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/LengthOfLastWord/LengthOfLastWord/obj/Debug/LengthOfLastWord.pdb

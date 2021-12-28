@@ -1,7 +1,0 @@
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\ArrayIntersections\ArrayIntersections\bin\Debug\ArrayIntersections.exe.config
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\ArrayIntersections\ArrayIntersections\bin\Debug\ArrayIntersections.exe
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\ArrayIntersections\ArrayIntersections\bin\Debug\ArrayIntersections.pdb
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\ArrayIntersections\ArrayIntersections\obj\Debug\ArrayIntersections.csproj.AssemblyReference.cache
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\ArrayIntersections\ArrayIntersections\obj\Debug\ArrayIntersections.csproj.CoreCompileInputs.cache
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\ArrayIntersections\ArrayIntersections\obj\Debug\ArrayIntersections.exe
-D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\ArrayIntersections\ArrayIntersections\obj\Debug\ArrayIntersections.pdb

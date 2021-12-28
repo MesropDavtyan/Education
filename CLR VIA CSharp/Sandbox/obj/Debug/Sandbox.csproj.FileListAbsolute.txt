@@ -1,7 +1,0 @@
-D:\Google Drive Main\Education\CLR VIA CSharp\Sandbox\obj\Debug\Sandbox.csproj.CoreCompileInputs.cache
-D:\Google Drive Main\Education\CLR VIA CSharp\Sandbox\bin\Debug\Sandbox.exe.config
-D:\Google Drive Main\Education\CLR VIA CSharp\Sandbox\bin\Debug\Sandbox.exe
-D:\Google Drive Main\Education\CLR VIA CSharp\Sandbox\bin\Debug\Sandbox.pdb
-D:\Google Drive Main\Education\CLR VIA CSharp\Sandbox\obj\Debug\Sandbox.exe
-D:\Google Drive Main\Education\CLR VIA CSharp\Sandbox\obj\Debug\Sandbox.pdb
-D:\Google Drive Main\Education\CLR VIA CSharp\Sandbox\obj\Debug\Sandbox.csproj.AssemblyReference.cache

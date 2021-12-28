@@ -1,5 +1,0 @@
-/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Linked List/MergeTwoSortedLists/MergeTwoSortedLists/bin/Debug/MergeTwoSortedLists.exe
-/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Linked List/MergeTwoSortedLists/MergeTwoSortedLists/bin/Debug/MergeTwoSortedLists.pdb
-/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Linked List/MergeTwoSortedLists/MergeTwoSortedLists/obj/Debug/MergeTwoSortedLists.csproj.CoreCompileInputs.cache
-/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Linked List/MergeTwoSortedLists/MergeTwoSortedLists/obj/Debug/MergeTwoSortedLists.exe
-/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Linked List/MergeTwoSortedLists/MergeTwoSortedLists/obj/Debug/MergeTwoSortedLists.pdb

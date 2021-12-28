@@ -1,7 +1,0 @@
-D:\Google Drive Main\Education\ProgrammingTests\TwoSum\bin\Debug\TwoSum.exe.config
-D:\Google Drive Main\Education\ProgrammingTests\TwoSum\bin\Debug\TwoSum.exe
-D:\Google Drive Main\Education\ProgrammingTests\TwoSum\bin\Debug\TwoSum.pdb
-D:\Google Drive Main\Education\ProgrammingTests\TwoSum\obj\Debug\TwoSum.csproj.CoreCompileInputs.cache
-D:\Google Drive Main\Education\ProgrammingTests\TwoSum\obj\Debug\TwoSum.exe
-D:\Google Drive Main\Education\ProgrammingTests\TwoSum\obj\Debug\TwoSum.pdb
-D:\Google Drive Main\Education\ProgrammingTests\TwoSum\obj\Debug\TwoSum.csproj.AssemblyReference.cache

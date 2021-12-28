@@ -1,7 +1,0 @@
-D:\OneDrive - EPAM\Education\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
-D:\OneDrive - EPAM\Education\DesignPatterns\Singleton\bin\Debug\Singleton.exe
-D:\OneDrive - EPAM\Education\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
-D:\OneDrive - EPAM\Education\DesignPatterns\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
-D:\OneDrive - EPAM\Education\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
-D:\OneDrive - EPAM\Education\DesignPatterns\Singleton\obj\Debug\Singleton.exe
-D:\OneDrive - EPAM\Education\DesignPatterns\Singleton\obj\Debug\Singleton.pdb

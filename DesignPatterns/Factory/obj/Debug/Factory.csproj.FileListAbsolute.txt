@@ -1,7 +1,0 @@
-D:\OneDrive - EPAM\Education\DesignPatterns\Factory\bin\Debug\Factory.exe.config
-D:\OneDrive - EPAM\Education\DesignPatterns\Factory\bin\Debug\Factory.exe
-D:\OneDrive - EPAM\Education\DesignPatterns\Factory\bin\Debug\Factory.pdb
-D:\OneDrive - EPAM\Education\DesignPatterns\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
-D:\OneDrive - EPAM\Education\DesignPatterns\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
-D:\OneDrive - EPAM\Education\DesignPatterns\Factory\obj\Debug\Factory.exe
-D:\OneDrive - EPAM\Education\DesignPatterns\Factory\obj\Debug\Factory.pdb
