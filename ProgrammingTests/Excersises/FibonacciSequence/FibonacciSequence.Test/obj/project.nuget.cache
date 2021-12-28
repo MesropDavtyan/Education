@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Tp+Q6SNn6dc6LdaEkrUTUagTrIdEccf7rpJPNzamhriP3KrjRAZQARicLzsr32H/MSwYw0WkPnyFd7LHOxmpw==",
+  "dgSpecHash": "3TyUFoZPVCUObCEy+YgDRauj/uGW6gDyuC2IMqh7VMDDjvCnUyPu+k4uVPLm2yytgAIljgWdnfERu8jQ5xr06A==",
   "success": true,
-  "projectFilePath": "/Volumes/GoogleDrive/My Drive/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence.Test/FibonacciSequence.Test.csproj",
+  "projectFilePath": "/Users/admin/Projects/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence.Test/FibonacciSequence.Test.csproj",
   "expectedPackageFiles": [
     "/Users/admin/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",
     "/Users/admin/.nuget/packages/microsoft.net.test.sdk/16.5.0/microsoft.net.test.sdk.16.5.0.nupkg.sha512",

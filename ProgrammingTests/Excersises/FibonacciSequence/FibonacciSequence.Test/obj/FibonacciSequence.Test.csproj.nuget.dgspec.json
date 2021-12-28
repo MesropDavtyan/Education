@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/GoogleDrive/My Drive/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence.Test/FibonacciSequence.Test.csproj": {}
+    "/Users/admin/Projects/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence.Test/FibonacciSequence.Test.csproj": {}
   },
   "projects": {
-    "/Volumes/GoogleDrive/My Drive/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence.Test/FibonacciSequence.Test.csproj": {
+    "/Users/admin/Projects/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence.Test/FibonacciSequence.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/GoogleDrive/My Drive/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence.Test/FibonacciSequence.Test.csproj",
+        "projectUniqueName": "/Users/admin/Projects/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence.Test/FibonacciSequence.Test.csproj",
         "projectName": "FibonacciSequence.Test",
-        "projectPath": "/Volumes/GoogleDrive/My Drive/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence.Test/FibonacciSequence.Test.csproj",
+        "projectPath": "/Users/admin/Projects/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence.Test/FibonacciSequence.Test.csproj",
         "packagesPath": "/Users/admin/.nuget/packages/",
-        "outputPath": "/Volumes/GoogleDrive/My Drive/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence.Test/obj/",
+        "outputPath": "/Users/admin/Projects/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence.Test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/admin/.config/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net472": {
             "targetAlias": "net472",
             "projectReferences": {
-              "/Volumes/GoogleDrive/My Drive/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence/FibonacciSequence.csproj": {
-                "projectPath": "/Volumes/GoogleDrive/My Drive/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence/FibonacciSequence.csproj"
+              "/Users/admin/Projects/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence/FibonacciSequence.csproj": {
+                "projectPath": "/Users/admin/Projects/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence/FibonacciSequence.csproj"
               }
             }
           }
@@ -55,15 +55,15 @@
               "version": "[3.16.1, )"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Volumes/GoogleDrive/My Drive/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence/FibonacciSequence.csproj": {
+    "/Users/admin/Projects/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence/FibonacciSequence.csproj": {
       "restore": {
-        "projectUniqueName": "/Volumes/GoogleDrive/My Drive/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence/FibonacciSequence.csproj",
+        "projectUniqueName": "/Users/admin/Projects/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence/FibonacciSequence.csproj",
         "projectName": "FibonacciSequence",
-        "projectPath": "/Volumes/GoogleDrive/My Drive/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence/FibonacciSequence.csproj"
+        "projectPath": "/Users/admin/Projects/Education/ProgrammingTests/Excersises/FibonacciSequence/FibonacciSequence/FibonacciSequence.csproj"
       },
       "frameworks": {
         "net472": {}
