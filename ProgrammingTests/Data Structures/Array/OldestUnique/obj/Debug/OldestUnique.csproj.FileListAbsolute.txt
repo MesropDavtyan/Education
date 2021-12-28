@@ -1,0 +1,13 @@
+/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/OldestUnique/bin/Debug/OldestUnique.exe.config
+/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/OldestUnique/bin/Debug/OldestUnique.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/OldestUnique/bin/Debug/OldestUnique.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/OldestUnique/obj/Debug/OldestUnique.csproj.CoreCompileInputs.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/OldestUnique/obj/Debug/OldestUnique.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/OldestUnique/obj/Debug/OldestUnique.pdb
+D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\OldestUnique\bin\Debug\OldestUnique.exe.config
+D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\OldestUnique\bin\Debug\OldestUnique.exe
+D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\OldestUnique\bin\Debug\OldestUnique.pdb
+D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\OldestUnique\obj\Debug\OldestUnique.csproj.AssemblyReference.cache
+D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\OldestUnique\obj\Debug\OldestUnique.csproj.CoreCompileInputs.cache
+D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\OldestUnique\obj\Debug\OldestUnique.exe
+D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Array\OldestUnique\obj\Debug\OldestUnique.pdb

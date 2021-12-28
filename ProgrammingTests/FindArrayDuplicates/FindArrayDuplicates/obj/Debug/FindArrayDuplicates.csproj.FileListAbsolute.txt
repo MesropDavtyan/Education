@@ -1,0 +1,12 @@
+D:/Google Drive Main/Education/ProgrammingTests/FindArrayDuplicates/FindArrayDuplicates/bin/Debug/FindArrayDuplicates.exe.config
+D:/Google Drive Main/Education/ProgrammingTests/FindArrayDuplicates/FindArrayDuplicates/bin/Debug/FindArrayDuplicates.exe
+D:/Google Drive Main/Education/ProgrammingTests/FindArrayDuplicates/FindArrayDuplicates/bin/Debug/FindArrayDuplicates.pdb
+D:/Google Drive Main/Education/ProgrammingTests/FindArrayDuplicates/FindArrayDuplicates/obj/Debug/FindArrayDuplicates.csproj.CoreCompileInputs.cache
+D:/Google Drive Main/Education/ProgrammingTests/FindArrayDuplicates/FindArrayDuplicates/obj/Debug/FindArrayDuplicates.exe
+D:/Google Drive Main/Education/ProgrammingTests/FindArrayDuplicates/FindArrayDuplicates/obj/Debug/FindArrayDuplicates.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/FindArrayDuplicates/FindArrayDuplicates/bin/Debug/FindArrayDuplicates.exe.config
+/Users/admin/Google Drive/Education/ProgrammingTests/FindArrayDuplicates/FindArrayDuplicates/bin/Debug/FindArrayDuplicates.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/FindArrayDuplicates/FindArrayDuplicates/bin/Debug/FindArrayDuplicates.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/FindArrayDuplicates/FindArrayDuplicates/obj/Debug/FindArrayDuplicates.csproj.CoreCompileInputs.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/FindArrayDuplicates/FindArrayDuplicates/obj/Debug/FindArrayDuplicates.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/FindArrayDuplicates/FindArrayDuplicates/obj/Debug/FindArrayDuplicates.pdb

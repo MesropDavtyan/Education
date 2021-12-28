@@ -1,0 +1,26 @@
+D:/Google Drive Main/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/obj/Debug/RomanToNumberTest.csproj.CoreCompileInputs.cache
+D:/Google Drive Main/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/bin/Debug/RomanToNumberTest.dll
+D:/Google Drive Main/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/bin/Debug/RomanToNumberTest.pdb
+D:/Google Drive Main/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/bin/Debug/nunit.framework.dll
+D:/Google Drive Main/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/bin/Debug/RomanToNumber.exe
+D:/Google Drive Main/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/bin/Debug/nunit.framework.pdb
+D:/Google Drive Main/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/bin/Debug/nunit.framework.xml
+D:/Google Drive Main/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/bin/Debug/RomanToNumber.pdb
+D:/Google Drive Main/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/bin/Debug/RomanToNumber.exe.config
+D:/Google Drive Main/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/obj/Debug/RomanToNumberTest.csproj.AssemblyReference.cache
+D:/Google Drive Main/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/obj/Debug/RomanToNumberTest.csproj.CopyComplete
+D:/Google Drive Main/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/obj/Debug/RomanToNumberTest.dll
+D:/Google Drive Main/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/obj/Debug/RomanToNumberTest.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/bin/Debug/RomanToNumberTest.dll
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/bin/Debug/RomanToNumberTest.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/bin/Debug/nunit.framework.dll
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/bin/Debug/RomanToNumber.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/bin/Debug/nunit.framework.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/bin/Debug/nunit.framework.xml
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/bin/Debug/RomanToNumber.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/bin/Debug/RomanToNumber.exe.config
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/obj/Debug/RomanToNumberTest.csprojAssemblyReference.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/obj/Debug/RomanToNumberTest.csproj.CoreCompileInputs.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/obj/Debug/RomanToNumberTest.csproj.CopyComplete
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/obj/Debug/RomanToNumberTest.dll
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumberTest/RomanToNumberTest/obj/Debug/RomanToNumberTest.pdb

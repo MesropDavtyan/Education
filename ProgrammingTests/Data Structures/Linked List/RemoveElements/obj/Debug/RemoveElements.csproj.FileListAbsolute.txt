@@ -1,0 +1,6 @@
+D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Linked List\RemoveElements\bin\Debug\RemoveElements.exe.config
+D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Linked List\RemoveElements\bin\Debug\RemoveElements.exe
+D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Linked List\RemoveElements\bin\Debug\RemoveElements.pdb
+D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Linked List\RemoveElements\obj\Debug\RemoveElements.csproj.CoreCompileInputs.cache
+D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Linked List\RemoveElements\obj\Debug\RemoveElements.exe
+D:\Google Drive Main\Education\ProgrammingTests\Data Structures\Linked List\RemoveElements\obj\Debug\RemoveElements.pdb

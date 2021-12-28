@@ -1,0 +1,5 @@
+/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/RemoveElement/RemoveElement/bin/Debug/RemoveElement.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/RemoveElement/RemoveElement/bin/Debug/RemoveElement.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/RemoveElement/RemoveElement/obj/Debug/RemoveElement.csproj.CoreCompileInputs.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/RemoveElement/RemoveElement/obj/Debug/RemoveElement.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/RemoveElement/RemoveElement/obj/Debug/RemoveElement.pdb

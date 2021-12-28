@@ -1,0 +1,26 @@
+D:/Google Drive Main/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/bin/Debug/ReverseWordsTest.dll
+D:/Google Drive Main/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/bin/Debug/ReverseWordsTest.pdb
+D:/Google Drive Main/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/bin/Debug/nunit.framework.dll
+D:/Google Drive Main/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/bin/Debug/ReverseWords.exe
+D:/Google Drive Main/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/bin/Debug/nunit.framework.pdb
+D:/Google Drive Main/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/bin/Debug/nunit.framework.xml
+D:/Google Drive Main/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/bin/Debug/ReverseWords.pdb
+D:/Google Drive Main/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/bin/Debug/ReverseWords.exe.config
+D:/Google Drive Main/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/obj/Debug/ReverseWordsTest.csproj.CoreCompileInputs.cache
+D:/Google Drive Main/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/obj/Debug/ReverseWordsTest.csproj.CopyComplete
+D:/Google Drive Main/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/obj/Debug/ReverseWordsTest.dll
+D:/Google Drive Main/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/obj/Debug/ReverseWordsTest.pdb
+D:/Google Drive Main/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/obj/Debug/ReverseWordsTest.csproj.AssemblyReference.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/bin/Debug/ReverseWordsTest.dll
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/bin/Debug/ReverseWordsTest.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/bin/Debug/nunit.framework.dll
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/bin/Debug/ReverseWords.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/bin/Debug/nunit.framework.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/bin/Debug/nunit.framework.xml
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/bin/Debug/ReverseWords.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/bin/Debug/ReverseWords.exe.config
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/obj/Debug/ReverseWordsTest.csprojAssemblyReference.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/obj/Debug/ReverseWordsTest.csproj.CoreCompileInputs.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/obj/Debug/ReverseWordsTest.csproj.CopyComplete
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/obj/Debug/ReverseWordsTest.dll
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWordsTest/ReverseWordsTest/obj/Debug/ReverseWordsTest.pdb

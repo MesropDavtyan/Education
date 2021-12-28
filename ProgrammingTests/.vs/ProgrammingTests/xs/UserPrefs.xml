@@ -1,0 +1,69 @@
+﻿<Properties StartupConfiguration="{39FD65DB-5FB2-455F-AC20-B6EC8ED8F4C7}|Default">
+  <MonoDevelop.Ide.ItemProperties.Data_220Structures.Array.RemoveDuplicates.RemoveDuplicates PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Data_220Structures.Binary_220Tree.MinDepth.MinDepth PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Data_220Structures.Array.MaxSubarray.MaxSubarray FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Data_220Structures.Binary_220Tree.InorderTraversal.InorderTraversal FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data Structures/Binary Tree/MinDepth/MinDepth/Program.cs">
+    <Files>
+      <File FileName="Data Structures/Binary Tree/MinDepth/MinDepth/Solution.cs" Line="12" Column="50" />
+      <File FileName="MaxDepth/MaxDepth/Solution.cs" Line="67" Column="51" />
+      <File FileName="Data Structures/Binary Tree/MinDepth/MinDepth/Program.cs" Line="20" Column="1" />
+      <File FileName="MaxDepth/MaxDepth/Program.cs" />
+      <File FileName="Data Structures/Binary Tree/InorderTraversal/InorderTraversal/Solution.cs" Line="9" Column="30" />
+      <File FileName="Data Structures/Binary Tree/InorderTraversal/InorderTraversal/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProgrammingTests" expanded="True">
+            <Node name="Data Structures" expanded="True">
+              <Node name="Binary Tree" expanded="True">
+                <Node name="InorderTraversal" expanded="True">
+                  <Node name="InorderTraversal" expanded="True" />
+                </Node>
+                <Node name="MaxDepth" expanded="True">
+                  <Node name="MaxDepth" expanded="True" />
+                </Node>
+                <Node name="MinDepth" expanded="True">
+                  <Node name="MinDepth" expanded="True">
+                    <Node name="Program.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Excersises" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>queue.Count</Value>
+          <Value>queue</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ProgrammingTests" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Data_220Structures.Array.MergeSortedArrays.MergeSortedArrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Excersises.StrStr.StrStr PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Excersises.ClimbStairs.ClimbStairs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Excersises.AddBinary.AddBinary FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Data_220Structures.Array.RemoveElement.RemoveElement PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Data_220Structures.Array.PlusOne.PlusOne PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Data_220Structures.Array.MoveZeroes.MoveZeroes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Data_220Structures.Binary_220Tree.MaxDepth.MaxDepth PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Excersises.LengthOfLastWord.LengthOfLastWord PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Data_220Structures.Array.UniquePaths.UniquePaths PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Data_220Structures.Array.KLengthApart.KLengthApart PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Data_220Structures.Linked_220List.DeleteDuplicates.DeleteDuplicates PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

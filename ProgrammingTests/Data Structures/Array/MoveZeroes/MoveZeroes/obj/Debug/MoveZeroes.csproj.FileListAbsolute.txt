@@ -1,0 +1,5 @@
+/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/MoveZeroes/MoveZeroes/bin/Debug/MoveZeroes.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/MoveZeroes/MoveZeroes/bin/Debug/MoveZeroes.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/MoveZeroes/MoveZeroes/obj/Debug/MoveZeroes.csproj.CoreCompileInputs.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/MoveZeroes/MoveZeroes/obj/Debug/MoveZeroes.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/Data Structures/Array/MoveZeroes/MoveZeroes/obj/Debug/MoveZeroes.pdb

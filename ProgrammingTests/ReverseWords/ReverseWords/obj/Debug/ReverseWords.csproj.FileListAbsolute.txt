@@ -1,0 +1,13 @@
+D:/Google Drive Main/Education/ProgrammingTests/ReverseWords/ReverseWords/bin/Debug/ReverseWords.exe.config
+D:/Google Drive Main/Education/ProgrammingTests/ReverseWords/ReverseWords/bin/Debug/ReverseWords.exe
+D:/Google Drive Main/Education/ProgrammingTests/ReverseWords/ReverseWords/bin/Debug/ReverseWords.pdb
+D:/Google Drive Main/Education/ProgrammingTests/ReverseWords/ReverseWords/obj/Debug/ReverseWords.csproj.CoreCompileInputs.cache
+D:/Google Drive Main/Education/ProgrammingTests/ReverseWords/ReverseWords/obj/Debug/ReverseWords.exe
+D:/Google Drive Main/Education/ProgrammingTests/ReverseWords/ReverseWords/obj/Debug/ReverseWords.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWords/bin/Debug/ReverseWords.exe.config
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWords/bin/Debug/ReverseWords.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWords/bin/Debug/ReverseWords.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWords/obj/Debug/ReverseWords.csprojAssemblyReference.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWords/obj/Debug/ReverseWords.csproj.CoreCompileInputs.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWords/obj/Debug/ReverseWords.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/ReverseWords/ReverseWords/obj/Debug/ReverseWords.pdb

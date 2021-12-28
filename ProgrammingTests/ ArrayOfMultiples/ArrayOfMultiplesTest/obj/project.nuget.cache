@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D4uMh6N9Zxv0T/dgOiK9OoGA2A2BU/FbqwKhbDl/8xyJ+5hlR/7Jo/l5dUNvbigiWf+2RDvpit8ApONWAda59g==",
+  "success": true,
+  "projectFilePath": "D:\\Google Drive Main\\Education\\ProgrammingTests\\ ArrayOfMultiples\\ArrayOfMultiplesTest\\ArrayOfMultiplesTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mesrop Davtyan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mesrop Davtyan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

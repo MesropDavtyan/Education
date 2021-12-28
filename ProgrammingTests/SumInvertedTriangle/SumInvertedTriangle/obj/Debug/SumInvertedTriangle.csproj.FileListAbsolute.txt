@@ -1,0 +1,13 @@
+D:\OneDrive - EPAM\Education\ProgrammingTests\SumInvertedTriangle\SumInvertedTriangle\bin\Debug\SumInvertedTriangle.exe.config
+D:\OneDrive - EPAM\Education\ProgrammingTests\SumInvertedTriangle\SumInvertedTriangle\bin\Debug\SumInvertedTriangle.exe
+D:\OneDrive - EPAM\Education\ProgrammingTests\SumInvertedTriangle\SumInvertedTriangle\bin\Debug\SumInvertedTriangle.pdb
+D:\OneDrive - EPAM\Education\ProgrammingTests\SumInvertedTriangle\SumInvertedTriangle\obj\Debug\SumInvertedTriangle.csproj.CoreCompileInputs.cache
+D:\OneDrive - EPAM\Education\ProgrammingTests\SumInvertedTriangle\SumInvertedTriangle\obj\Debug\SumInvertedTriangle.exe
+D:\OneDrive - EPAM\Education\ProgrammingTests\SumInvertedTriangle\SumInvertedTriangle\obj\Debug\SumInvertedTriangle.pdb
+D:\Google Drive Main\OneDrive\Education\ProgrammingTests\SumInvertedTriangle\SumInvertedTriangle\bin\Debug\SumInvertedTriangle.exe.config
+D:\Google Drive Main\OneDrive\Education\ProgrammingTests\SumInvertedTriangle\SumInvertedTriangle\bin\Debug\SumInvertedTriangle.exe
+D:\Google Drive Main\OneDrive\Education\ProgrammingTests\SumInvertedTriangle\SumInvertedTriangle\bin\Debug\SumInvertedTriangle.pdb
+D:\Google Drive Main\OneDrive\Education\ProgrammingTests\SumInvertedTriangle\SumInvertedTriangle\obj\Debug\SumInvertedTriangle.csprojAssemblyReference.cache
+D:\Google Drive Main\OneDrive\Education\ProgrammingTests\SumInvertedTriangle\SumInvertedTriangle\obj\Debug\SumInvertedTriangle.csproj.CoreCompileInputs.cache
+D:\Google Drive Main\OneDrive\Education\ProgrammingTests\SumInvertedTriangle\SumInvertedTriangle\obj\Debug\SumInvertedTriangle.exe
+D:\Google Drive Main\OneDrive\Education\ProgrammingTests\SumInvertedTriangle\SumInvertedTriangle\obj\Debug\SumInvertedTriangle.pdb

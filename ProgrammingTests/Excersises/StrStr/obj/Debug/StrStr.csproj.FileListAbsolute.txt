@@ -1,0 +1,6 @@
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/StrStr/bin/Debug/StrStr.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/StrStr/bin/Debug/StrStr.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/StrStr/obj/Debug/StrStr.csproj.AssemblyReference.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/StrStr/obj/Debug/StrStr.csproj.CoreCompileInputs.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/StrStr/obj/Debug/StrStr.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/StrStr/obj/Debug/StrStr.pdb

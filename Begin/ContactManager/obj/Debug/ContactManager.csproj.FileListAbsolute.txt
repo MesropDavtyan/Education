@@ -1,0 +1,291 @@
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.IO.Compression.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\ApplicationInsights.config
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\ContactManager.dll.config
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\ContactManager.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\ContactManager.pdb
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\csc.exe
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\csc.exe.config
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\csc.rsp
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\csi.exe
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\csi.exe.config
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\csi.rsp
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.AppContext.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.Console.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.Security.Claims.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.ValueTuple.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\vbc.exe
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\vbc.exe.config
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\vbc.rsp
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\Antlr3.Runtime.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\Microsoft.AI.Web.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\Newtonsoft.Json.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Net.Http.Formatting.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Web.Helpers.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Web.Http.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Web.Http.WebHost.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Web.Mvc.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Web.Optimization.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Web.Razor.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Web.WebPages.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\WebGrease.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\Newtonsoft.Json.xml
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Net.Http.Formatting.xml
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Web.Helpers.xml
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Web.Http.xml
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Web.Http.WebHost.xml
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Web.Mvc.xml
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Web.Optimization.xml
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Web.Razor.xml
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Web.WebPages.xml
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\Antlr3.Runtime.pdb
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\bin\Microsoft.AI.Web.xml
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\obj\Debug\ContactManager.csproj.CopyComplete
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\obj\Debug\ContactManager.dll
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\obj\Debug\ContactManager.pdb
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\ApplicationInsights.config
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\ContactManager.dll.config
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\ContactManager.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\ContactManager.pdb
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\csc.exe
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\csc.exe.config
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\csc.rsp
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\csi.exe
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\csi.exe.config
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\csi.rsp
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.AppContext.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.Console.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\vbc.exe
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\vbc.exe.config
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\vbc.rsp
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\Antlr3.Runtime.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\Microsoft.AI.Web.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\Newtonsoft.Json.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Net.Http.Formatting.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Web.Helpers.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Web.Http.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Web.Http.WebHost.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Web.Mvc.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Web.Optimization.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Web.Razor.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Web.WebPages.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\WebGrease.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\Newtonsoft.Json.xml
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Net.Http.Formatting.xml
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Web.Helpers.xml
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Web.Http.xml
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Web.Http.WebHost.xml
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Web.Mvc.xml
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Web.Optimization.xml
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Web.Razor.xml
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Web.WebPages.xml
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\Antlr3.Runtime.pdb
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\bin\Microsoft.AI.Web.xml
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\obj\Debug\ContactManager.csproj.CopyComplete
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\obj\Debug\ContactManager.dll
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\obj\Debug\ContactManager.pdb
+C:\Users\Mesrop_Davtyan\source\repos\Begin\ContactManager\obj\Debug\ContactManager.csprojResolveAssemblyReference.cache
+C:\Users\Meda\Downloads\Projects-20180729T205743Z-001\Projects\Begin\ContactManager\obj\Debug\ContactManager.csprojAssemblyReference.cache
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\ApplicationInsights.config
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\ContactManager.dll.config
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\ContactManager.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\ContactManager.pdb
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\csc.exe
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\csc.exe.config
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\csc.rsp
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\csi.exe
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\csi.exe.config
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\csi.rsp
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.AppContext.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.Collections.Immutable.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.Console.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.Diagnostics.Process.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.IO.Compression.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.IO.FileSystem.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.IO.Pipes.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.Reflection.Metadata.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.Security.AccessControl.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.Security.Claims.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.Security.Principal.Windows.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.Threading.Thread.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.ValueTuple.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.Xml.XmlDocument.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.Xml.XPath.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\vbc.exe
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\vbc.exe.config
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\vbc.rsp
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\VBCSCompiler.exe
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\roslyn\VBCSCompiler.exe.config
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\Antlr3.Runtime.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\Microsoft.AI.Agent.Intercept.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\Microsoft.AI.DependencyCollector.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\Microsoft.AI.Web.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\Microsoft.AI.WindowsServer.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\Microsoft.ApplicationInsights.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\Newtonsoft.Json.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Net.Http.Formatting.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Web.Helpers.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Web.Http.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Web.Http.WebHost.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Web.Mvc.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Web.Optimization.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Web.Razor.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Web.WebPages.Deployment.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Web.WebPages.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Web.WebPages.Razor.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\WebGrease.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\Newtonsoft.Json.xml
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Net.Http.Formatting.xml
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Web.Helpers.xml
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Web.Http.xml
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Web.Http.WebHost.xml
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Web.Mvc.xml
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Web.Optimization.xml
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Web.Razor.xml
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Web.WebPages.xml
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Web.WebPages.Deployment.xml
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\System.Web.WebPages.Razor.xml
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\Antlr3.Runtime.pdb
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\Microsoft.ApplicationInsights.xml
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\Microsoft.AI.DependencyCollector.xml
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\Microsoft.AI.WindowsServer.xml
+D:\OneDrive - EPAM\Education\Begin\ContactManager\bin\Microsoft.AI.Web.xml
+D:\OneDrive - EPAM\Education\Begin\ContactManager\obj\Debug\ContactManager.csprojAssemblyReference.cache
+D:\OneDrive - EPAM\Education\Begin\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+D:\OneDrive - EPAM\Education\Begin\ContactManager\obj\Debug\ContactManager.csproj.CopyComplete
+D:\OneDrive - EPAM\Education\Begin\ContactManager\obj\Debug\ContactManager.dll
+D:\OneDrive - EPAM\Education\Begin\ContactManager\obj\Debug\ContactManager.pdb

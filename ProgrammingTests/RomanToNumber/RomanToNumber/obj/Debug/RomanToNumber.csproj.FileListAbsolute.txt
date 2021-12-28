@@ -1,0 +1,13 @@
+D:/Google Drive Main/Education/ProgrammingTests/RomanToNumber/RomanToNumber/bin/Debug/RomanToNumber.exe.config
+D:/Google Drive Main/Education/ProgrammingTests/RomanToNumber/RomanToNumber/bin/Debug/RomanToNumber.exe
+D:/Google Drive Main/Education/ProgrammingTests/RomanToNumber/RomanToNumber/bin/Debug/RomanToNumber.pdb
+D:/Google Drive Main/Education/ProgrammingTests/RomanToNumber/RomanToNumber/obj/Debug/RomanToNumber.csproj.CoreCompileInputs.cache
+D:/Google Drive Main/Education/ProgrammingTests/RomanToNumber/RomanToNumber/obj/Debug/RomanToNumber.exe
+D:/Google Drive Main/Education/ProgrammingTests/RomanToNumber/RomanToNumber/obj/Debug/RomanToNumber.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumber/bin/Debug/RomanToNumber.exe.config
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumber/bin/Debug/RomanToNumber.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumber/bin/Debug/RomanToNumber.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumber/obj/Debug/RomanToNumber.csprojAssemblyReference.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumber/obj/Debug/RomanToNumber.csproj.CoreCompileInputs.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumber/obj/Debug/RomanToNumber.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/RomanToNumber/RomanToNumber/obj/Debug/RomanToNumber.pdb

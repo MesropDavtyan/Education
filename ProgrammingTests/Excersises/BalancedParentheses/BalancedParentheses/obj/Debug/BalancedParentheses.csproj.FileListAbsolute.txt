@@ -1,0 +1,13 @@
+D:/Google Drive Main/Education/ProgrammingTests/Excersises/BalancedParentheses/BalancedParentheses/bin/Debug/BalancedParentheses.exe.config
+D:/Google Drive Main/Education/ProgrammingTests/Excersises/BalancedParentheses/BalancedParentheses/bin/Debug/BalancedParentheses.exe
+D:/Google Drive Main/Education/ProgrammingTests/Excersises/BalancedParentheses/BalancedParentheses/bin/Debug/BalancedParentheses.pdb
+D:/Google Drive Main/Education/ProgrammingTests/Excersises/BalancedParentheses/BalancedParentheses/obj/Debug/BalancedParentheses.csproj.CoreCompileInputs.cache
+D:/Google Drive Main/Education/ProgrammingTests/Excersises/BalancedParentheses/BalancedParentheses/obj/Debug/BalancedParentheses.exe
+D:/Google Drive Main/Education/ProgrammingTests/Excersises/BalancedParentheses/BalancedParentheses/obj/Debug/BalancedParentheses.pdb
+D:/Google Drive Main/Education/ProgrammingTests/Excersises/BalancedParentheses/BalancedParentheses/obj/Debug/BalancedParentheses.csproj.AssemblyReference.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/BalancedParentheses/BalancedParentheses/bin/Debug/BalancedParentheses.exe.config
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/BalancedParentheses/BalancedParentheses/bin/Debug/BalancedParentheses.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/BalancedParentheses/BalancedParentheses/bin/Debug/BalancedParentheses.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/BalancedParentheses/BalancedParentheses/obj/Debug/BalancedParentheses.csproj.CoreCompileInputs.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/BalancedParentheses/BalancedParentheses/obj/Debug/BalancedParentheses.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/BalancedParentheses/BalancedParentheses/obj/Debug/BalancedParentheses.pdb

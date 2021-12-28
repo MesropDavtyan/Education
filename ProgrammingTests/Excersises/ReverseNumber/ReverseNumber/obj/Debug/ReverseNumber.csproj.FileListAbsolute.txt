@@ -1,0 +1,6 @@
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/ReverseNumber/ReverseNumber/bin/Debug/ReverseNumber.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/ReverseNumber/ReverseNumber/bin/Debug/ReverseNumber.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/ReverseNumber/ReverseNumber/obj/Debug/ReverseNumber.csprojAssemblyReference.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/ReverseNumber/ReverseNumber/obj/Debug/ReverseNumber.csproj.CoreCompileInputs.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/ReverseNumber/ReverseNumber/obj/Debug/ReverseNumber.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/ReverseNumber/ReverseNumber/obj/Debug/ReverseNumber.pdb

@@ -1,0 +1,12 @@
+D:/Google Drive Main/Education/ProgrammingTests/Excersises/MaxProfit/MaxProfit/bin/Debug/MaxProfit.exe.config
+D:/Google Drive Main/Education/ProgrammingTests/Excersises/MaxProfit/MaxProfit/bin/Debug/MaxProfit.exe
+D:/Google Drive Main/Education/ProgrammingTests/Excersises/MaxProfit/MaxProfit/bin/Debug/MaxProfit.pdb
+D:/Google Drive Main/Education/ProgrammingTests/Excersises/MaxProfit/MaxProfit/obj/Debug/MaxProfit.csproj.CoreCompileInputs.cache
+D:/Google Drive Main/Education/ProgrammingTests/Excersises/MaxProfit/MaxProfit/obj/Debug/MaxProfit.exe
+D:/Google Drive Main/Education/ProgrammingTests/Excersises/MaxProfit/MaxProfit/obj/Debug/MaxProfit.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/MaxProfit/MaxProfit/bin/Debug/MaxProfit.exe.config
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/MaxProfit/MaxProfit/bin/Debug/MaxProfit.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/MaxProfit/MaxProfit/bin/Debug/MaxProfit.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/MaxProfit/MaxProfit/obj/Debug/MaxProfit.csproj.CoreCompileInputs.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/MaxProfit/MaxProfit/obj/Debug/MaxProfit.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/Excersises/MaxProfit/MaxProfit/obj/Debug/MaxProfit.pdb

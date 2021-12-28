@@ -1,0 +1,28 @@
+D:/OneDrive - EPAM/Education/ProgrammingTests/CroppedString/CroppedString/bin/Debug/CroppedString.exe.config
+D:/OneDrive - EPAM/Education/ProgrammingTests/CroppedString/CroppedString/bin/Debug/CroppedString.exe
+D:/OneDrive - EPAM/Education/ProgrammingTests/CroppedString/CroppedString/bin/Debug/CroppedString.pdb
+D:/OneDrive - EPAM/Education/ProgrammingTests/CroppedString/CroppedString/obj/Debug/CroppedString.csprojAssemblyReference.cache
+D:/OneDrive - EPAM/Education/ProgrammingTests/CroppedString/CroppedString/obj/Debug/CroppedString.csproj.CoreCompileInputs.cache
+D:/OneDrive - EPAM/Education/ProgrammingTests/CroppedString/CroppedString/obj/Debug/CroppedString.exe
+D:/OneDrive - EPAM/Education/ProgrammingTests/CroppedString/CroppedString/obj/Debug/CroppedString.pdb
+D:/Google Drive Main/OneDrive/Education/ProgrammingTests/CroppedString/CroppedString/bin/Debug/CroppedString.exe.config
+D:/Google Drive Main/OneDrive/Education/ProgrammingTests/CroppedString/CroppedString/bin/Debug/CroppedString.exe
+D:/Google Drive Main/OneDrive/Education/ProgrammingTests/CroppedString/CroppedString/bin/Debug/CroppedString.pdb
+D:/Google Drive Main/OneDrive/Education/ProgrammingTests/CroppedString/CroppedString/obj/Debug/CroppedString.csprojAssemblyReference.cache
+D:/Google Drive Main/OneDrive/Education/ProgrammingTests/CroppedString/CroppedString/obj/Debug/CroppedString.csproj.CoreCompileInputs.cache
+D:/Google Drive Main/OneDrive/Education/ProgrammingTests/CroppedString/CroppedString/obj/Debug/CroppedString.exe
+D:/Google Drive Main/OneDrive/Education/ProgrammingTests/CroppedString/CroppedString/obj/Debug/CroppedString.pdb
+D:/Google Drive Main/Education/ProgrammingTests/CroppedString/CroppedString/bin/Debug/CroppedString.exe.config
+D:/Google Drive Main/Education/ProgrammingTests/CroppedString/CroppedString/bin/Debug/CroppedString.exe
+D:/Google Drive Main/Education/ProgrammingTests/CroppedString/CroppedString/bin/Debug/CroppedString.pdb
+D:/Google Drive Main/Education/ProgrammingTests/CroppedString/CroppedString/obj/Debug/CroppedString.csproj.CoreCompileInputs.cache
+D:/Google Drive Main/Education/ProgrammingTests/CroppedString/CroppedString/obj/Debug/CroppedString.exe
+D:/Google Drive Main/Education/ProgrammingTests/CroppedString/CroppedString/obj/Debug/CroppedString.pdb
+D:/Google Drive Main/Education/ProgrammingTests/CroppedString/CroppedString/obj/Debug/CroppedString.csproj.AssemblyReference.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/CroppedString/CroppedString/bin/Debug/CroppedString.exe.config
+/Users/admin/Google Drive/Education/ProgrammingTests/CroppedString/CroppedString/bin/Debug/CroppedString.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/CroppedString/CroppedString/bin/Debug/CroppedString.pdb
+/Users/admin/Google Drive/Education/ProgrammingTests/CroppedString/CroppedString/obj/Debug/CroppedString.csprojAssemblyReference.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/CroppedString/CroppedString/obj/Debug/CroppedString.csproj.CoreCompileInputs.cache
+/Users/admin/Google Drive/Education/ProgrammingTests/CroppedString/CroppedString/obj/Debug/CroppedString.exe
+/Users/admin/Google Drive/Education/ProgrammingTests/CroppedString/CroppedString/obj/Debug/CroppedString.pdb

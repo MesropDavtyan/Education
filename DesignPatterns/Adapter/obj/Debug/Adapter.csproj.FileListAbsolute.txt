@@ -1,0 +1,11 @@
+D:\OneDrive - EPAM\Education\DesignPatterns\Adapter\bin\Debug\Adapter.exe.config
+D:\OneDrive - EPAM\Education\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+D:\OneDrive - EPAM\Education\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+D:\OneDrive - EPAM\Education\DesignPatterns\Adapter\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - EPAM\Education\DesignPatterns\Adapter\bin\Debug\Newtonsoft.Json.pdb
+D:\OneDrive - EPAM\Education\DesignPatterns\Adapter\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - EPAM\Education\DesignPatterns\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+D:\OneDrive - EPAM\Education\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\OneDrive - EPAM\Education\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.CopyComplete
+D:\OneDrive - EPAM\Education\DesignPatterns\Adapter\obj\Debug\Adapter.exe
+D:\OneDrive - EPAM\Education\DesignPatterns\Adapter\obj\Debug\Adapter.pdb

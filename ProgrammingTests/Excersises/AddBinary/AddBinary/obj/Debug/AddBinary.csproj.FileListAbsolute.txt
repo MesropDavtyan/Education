@@ -1,0 +1,6 @@
+D:\Google Drive Main\Education\ProgrammingTests\Excersises\AddBinary\AddBinary\bin\Debug\AddBinary.exe
+D:\Google Drive Main\Education\ProgrammingTests\Excersises\AddBinary\AddBinary\bin\Debug\AddBinary.pdb
+D:\Google Drive Main\Education\ProgrammingTests\Excersises\AddBinary\AddBinary\obj\Debug\AddBinary.csproj.AssemblyReference.cache
+D:\Google Drive Main\Education\ProgrammingTests\Excersises\AddBinary\AddBinary\obj\Debug\AddBinary.csproj.CoreCompileInputs.cache
+D:\Google Drive Main\Education\ProgrammingTests\Excersises\AddBinary\AddBinary\obj\Debug\AddBinary.exe
+D:\Google Drive Main\Education\ProgrammingTests\Excersises\AddBinary\AddBinary\obj\Debug\AddBinary.pdb

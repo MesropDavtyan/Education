@@ -1,0 +1,7 @@
+D:\Google Drive Main\Education\ProgrammingTests\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+D:\Google Drive Main\Education\ProgrammingTests\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+D:\Google Drive Main\Education\ProgrammingTests\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+D:\Google Drive Main\Education\ProgrammingTests\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+D:\Google Drive Main\Education\ProgrammingTests\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+D:\Google Drive Main\Education\ProgrammingTests\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
+D:\Google Drive Main\Education\ProgrammingTests\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
