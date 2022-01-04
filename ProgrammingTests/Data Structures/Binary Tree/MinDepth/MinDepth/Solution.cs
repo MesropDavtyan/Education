@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 //Given a binary tree, find its minimum depth.
 
@@ -36,7 +37,7 @@ namespace MinDepth
 
     public class Solution
     {
-        public int MinDepth(TreeNode root)
+        public int MinDepthRecursive(TreeNode root)
         {
             if (root == null)
             {
@@ -44,13 +45,51 @@ namespace MinDepth
             }
             if (root.left == null)
             {
-                return MinDepth(root.right) + 1;
+                return MinDepthRecursive(root.right) + 1;
             }
             if (root.right == null)
             {
-                return MinDepth(root.left) + 1;
+                return MinDepthRecursive(root.left) + 1;
             }
-            return 1 + Math.Min(MinDepth(root.right), MinDepth(root.left));
+            return 1 + Math.Min(MinDepthRecursive(root.right), MinDepthRecursive(root.left));
+        }
+
+        public int MinDepth(TreeNode root)
+        {
+            if (root == null)
+            {
+                return 0;
+            }
+
+            Queue<TreeNode> nodeQueue = new Queue<TreeNode>();
+            nodeQueue.Enqueue(root);
+            int level = 1;
+
+            while (nodeQueue.Count > 0)
+            {
+                int count = nodeQueue.Count;
+
+                while (count --> 0)
+                {
+                    TreeNode node = nodeQueue.Dequeue();
+                    if (node.left == null && node.right == null)
+                    {
+                        return level;
+                    }
+                    if (node.left != null)
+                    {
+                        nodeQueue.Enqueue(node.left);
+                    }
+                    if (node.right != null)
+                    {
+                        nodeQueue.Enqueue(node.right);
+                    }
+                }
+
+                level++;
+            }
+
+            return level;
         }
     }
 }
