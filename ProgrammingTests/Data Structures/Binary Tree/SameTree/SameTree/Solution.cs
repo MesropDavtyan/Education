@@ -29,7 +29,7 @@ namespace SameTree
                 return false;
             }
 
-            return IsSameTree(firstRoot.left, secondRoot.left) && IsSameTree(firstRoot.right, secondRoot.right);
+            return IsSameTreeRecursive(firstRoot.left, secondRoot.left) && IsSameTreeRecursive(firstRoot.right, secondRoot.right);
         }
 
         public bool IsSameTree(TreeNode firstRoot, TreeNode secondRoot)
