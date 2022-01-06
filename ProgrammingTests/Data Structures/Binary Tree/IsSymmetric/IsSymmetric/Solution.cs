@@ -16,28 +16,28 @@ namespace IsSymmetric
 
     public class Solution
     {
-        public bool isSymmetric(TreeNode root)
+        public bool IsSymmetric(TreeNode root)
         {
             if (root == null)
             {
                 return true;
             }
 
-            return isSymmetric(root.left, root.right);
+            return IsSymmetric(root.left, root.right);
         }
 
-        public bool isSymmetric(TreeNode left, TreeNode right)
+        public bool IsSymmetric(TreeNode left, TreeNode right)
         {
             if (left == null || right == null)
             {
-                return left == null;
+                return left == right;
             }
             if (left.val != right.val)
             {
                 return false;
             }
 
-            return isSymmetric(left.left, right.right) && isSymmetric(left.right, right.left);
+            return IsSymmetric(left.left, right.right) && IsSymmetric(left.right, right.left);
         }
     }
 }

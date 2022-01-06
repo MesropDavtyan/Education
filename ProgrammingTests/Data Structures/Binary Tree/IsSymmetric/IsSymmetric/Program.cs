@@ -13,7 +13,7 @@ namespace IsSymmetric
                 new TreeNode(2,
                     new TreeNode(3), new TreeNode(3)));
 
-            Console.WriteLine(solution.isSymmetric(root));
+            Console.WriteLine(solution.IsSymmetric(root));
         }
     }
 }
