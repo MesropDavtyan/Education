@@ -11,7 +11,7 @@ namespace IsSymmetric
                 new TreeNode(2,
                     new TreeNode(4), new TreeNode(3)),
                 new TreeNode(2,
-                    new TreeNode(3), new TreeNode(3)));
+                    new TreeNode(3), new TreeNode(4)));
 
             Console.WriteLine(solution.IsSymmetric(root));
         }

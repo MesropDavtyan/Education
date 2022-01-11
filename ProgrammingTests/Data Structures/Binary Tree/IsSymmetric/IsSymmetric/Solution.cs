@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace IsSymmetric
 {
     public class TreeNode
@@ -16,17 +18,17 @@ namespace IsSymmetric
 
     public class Solution
     {
-        public bool IsSymmetric(TreeNode root)
+        public bool IsSymmetricRecursive(TreeNode root)
         {
             if (root == null)
             {
                 return true;
             }
 
-            return IsSymmetric(root.left, root.right);
+            return Helper(root.left, root.right);
         }
 
-        public bool IsSymmetric(TreeNode left, TreeNode right)
+        public bool Helper(TreeNode left, TreeNode right)
         {
             if (left == null || right == null)
             {
@@ -37,7 +39,41 @@ namespace IsSymmetric
                 return false;
             }
 
-            return IsSymmetric(left.left, right.right) && IsSymmetric(left.right, right.left);
+            return Helper(left.left, right.right) && Helper(left.right, right.left);
+        }
+
+        public bool IsSymmetric(TreeNode root)
+        {
+            if (root == null)
+            {
+                return true;
+            }
+
+            Queue<TreeNode> nodes = new Queue<TreeNode>();
+            nodes.Enqueue(root);
+            nodes.Enqueue(root);
+
+            while (nodes.Count > 0)
+            {
+                TreeNode left = nodes.Dequeue();
+                TreeNode right = nodes.Dequeue();
+
+                if (left == null || right == null)
+                {
+                    return left == right;
+                }
+                if (left.val != right.val)
+                {
+                    return false;
+                }
+
+                nodes.Enqueue(left.left);
+                nodes.Enqueue(right.right);
+                nodes.Enqueue(left.right);
+                nodes.Enqueue(right.left);
+            }
+
+            return true;
         }
     }
 }
