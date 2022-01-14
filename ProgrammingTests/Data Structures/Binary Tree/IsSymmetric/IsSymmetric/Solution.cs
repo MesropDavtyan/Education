@@ -58,9 +58,13 @@ namespace IsSymmetric
                 TreeNode left = nodes.Dequeue();
                 TreeNode right = nodes.Dequeue();
 
+                if (left == null && right == null)
+                {
+                    continue;
+                }
                 if (left == null || right == null)
                 {
-                    return left == right;
+                    return false;
                 }
                 if (left.val != right.val)
                 {
