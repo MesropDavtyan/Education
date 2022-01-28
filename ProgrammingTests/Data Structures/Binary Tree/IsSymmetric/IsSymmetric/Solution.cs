@@ -28,7 +28,7 @@ namespace IsSymmetric
             return Helper(root.left, root.right);
         }
 
-        public bool Helper(TreeNode left, TreeNode right)
+        private bool Helper(TreeNode left, TreeNode right)
         {
             if (left == null || right == null)
             {
