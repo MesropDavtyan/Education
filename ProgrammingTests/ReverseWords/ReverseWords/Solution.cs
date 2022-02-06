@@ -1,14 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace ReverseWords
 {
     public class Solution
     {
-        public string ReverseWords(string text)
+        public string ReverseWordsNotOptimal(string text)
         {
             var jumbledSentance = new StringBuilder();
 
@@ -40,7 +37,7 @@ namespace ReverseWords
 
         public string ReverseWordsOptimal(string text)
         {
-            var jumbledSentance = new StringBuilder();
+            //var jumbledSentance = new StringBuilder();
 
             string[] words = text.Split(new char[0], StringSplitOptions.RemoveEmptyEntries);
             var lastIndex = words.Length - 1;
@@ -67,5 +64,36 @@ namespace ReverseWords
             //return jumbledSentance.ToString();
             return string.Join(" ", words).TrimEnd();
         }
+
+        public string ReverseWords(string text)
+        {
+            StringBuilder result = new StringBuilder();
+
+            for (int i = 0; i < text.Length; i++)
+            {
+                if (text[i] == ' ')
+                {
+                    continue;
+                }
+
+                int start = i;
+
+                while (i < text.Length && text[i] != ' ')
+                {
+                    i++;
+                }
+
+                if (result.Length == 0)
+                {
+                    result.Insert(0, text.Substring(start, i - start));
+                }
+                else
+                {
+                    result.Insert(0, ' ').Insert(0, text.Substring(start, i - start));
+                }
+            }
+
+            return result.ToString();
+        } 
     }
 }

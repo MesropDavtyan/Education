@@ -10,6 +10,10 @@ namespace ReverseWords
     {
         static void Main(string[] args)
         {
+            Solution solution = new Solution();
+
+            //Console.WriteLine(solution.ReverseWords("the sky is blue"));
+            Console.WriteLine(solution.ReverseWords("  hello world  "));
         }
     }
 }
