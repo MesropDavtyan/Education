@@ -9,23 +9,24 @@ namespace RemoveElements
         {
             var solution = new Solution();
 
-            List<ListNode> list = new List<ListNode>();
-            list.Add(new ListNode(1));
-            list.Add(new ListNode(2));
-            list.Add(new ListNode(6));
-            list.Add(new ListNode(3));
-            list.Add(new ListNode(4));
-            list.Add(new ListNode(5));
-            list.Add(new ListNode(6));
+            var myLinkedList = new ListNode(1,
+                new ListNode(2,
+                new ListNode(6,
+                new ListNode(3,
+                new ListNode(4,
+                new ListNode(5,
+                new ListNode(6)))))));
 
-            foreach (var item in list)
+            var result = solution.RemoveElements(myLinkedList, 6);
+
+            while (result != null)
             {
-                var result = solution.RemoveElements(item, 6);
-                if (result != null)
-                {
-                    Console.WriteLine(result.val);
-                }
+                Console.WriteLine(result.val);
+                result = result.next;
             }
         }
     }
 }
+
+
+
