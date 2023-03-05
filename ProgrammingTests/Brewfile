@@ -1,0 +1,9 @@
+tap "hashicorp/tap"
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+brew "git", link: false
+brew "terraform"
+brew "terragrunt"
+brew "hashicorp/tap/terraform"
+cask "qview"

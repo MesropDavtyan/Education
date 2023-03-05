@@ -14,7 +14,8 @@ namespace BubbleSort
 
             int[] arr = { 5, 3, 7, 1, 25, 12 };
 
-            solution.Sort(arr);
+            //solution.Sort(arr);
+            solution.SortOptimal(arr);
 
             foreach (var item in arr)
             {

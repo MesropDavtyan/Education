@@ -35,18 +35,20 @@ namespace AsyncAwait
             Console.WriteLine("Unconnected Method");
         }
 
-        public static async Task MyFoo()
+        public static void MyFoo()
         {
-            await Task.Delay(5000);
+            Console.WriteLine("Starting MyFoo");
+            Thread.Sleep(2000);
+            //await Task.Delay(5000);
             Console.WriteLine("MyFoo");
         }
 
         static async Task Main(string[] args)
         {
-            MyFoo();
+             MyFoo();
             //Foo3();
             Foo4();
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }

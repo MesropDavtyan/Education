@@ -8,6 +8,22 @@ namespace BubbleSort
 {
     public class Solution
     {
+        public void SortOptimal(int[] numbers)
+        {
+            for (int i = 0; i < numbers.Length - 1; i++)
+            {
+                for (int j = 0; j < numbers.Length - i - 1; j++)
+                {
+                    if (numbers[j] > numbers[j + 1])
+                    {
+                        var temp = numbers[j];
+                        numbers[j] = numbers[j + 1];
+                        numbers[j + 1] = temp;
+                    }
+                }
+            }
+        }
+
         public void Sort(int[] numbers)
         {
             bool isSorted = false;
