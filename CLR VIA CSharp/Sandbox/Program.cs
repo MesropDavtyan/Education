@@ -176,9 +176,9 @@ namespace Sandbox
             public int Age { get; set; }
         }
 
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
-            new A().Start();
+            //new A().Start();
 
             //-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -310,7 +310,7 @@ namespace Sandbox
 
             //-----------------------------------------------------------Async------------------------------------------------------------------------
 
-            /*async Task AsyncMethod()
+            async Task AsyncMethod()
             {
                 await Task.Delay(2000);
                 Console.WriteLine("Async Method");
@@ -327,8 +327,8 @@ namespace Sandbox
                 SyncMethod();
             }
 
-            CallerMethod();
-            Console.ReadKey();*/
+            await CallerMethod();
+            Console.ReadKey();
 
             //--------------------------------------------------------------Fibonacci---------------------------------------------------------------------
 

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Threading;
 using System.Threading.Tasks;
+using static EventOrganizer.Solution;
 
 namespace EventOrganizer
 {
@@ -8,7 +9,7 @@ namespace EventOrganizer
     {
         //+++++++++++++++++++++++++++++++  MULTITHREADING SANDBOX  +++++++++++++++++++++++++++++++++++++
 
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             // ========================  Passing parameters  ================================
 
@@ -58,11 +59,11 @@ namespace EventOrganizer
 
             // ========================  Thread Pool ================================
 
-            ThreadPool.QueueUserWorkItem(Go);
-            ThreadPool.QueueUserWorkItem(Go, 1993);
-            ThreadPool.QueueUserWorkItem(n => Console.WriteLine("Hello"));
+            //ThreadPool.QueueUserWorkItem(Go);
+            //ThreadPool.QueueUserWorkItem(Go, 1993);
+            //ThreadPool.QueueUserWorkItem(n => Console.WriteLine("Hello"));
 
-            Console.ReadLine();
+            //Console.ReadLine();
 
             // =========================  TPL  ============================
 
@@ -75,7 +76,7 @@ namespace EventOrganizer
             //Console.WriteLine(task.Result);
         }
 
-        static void Go(object data)
+    static void Go(object data)
         {
             //Thread.Sleep(2000);
             Console.WriteLine($"Hello from the thread pool: {data}");
@@ -102,4 +103,5 @@ namespace EventOrganizer
         //    Console.WriteLine($"This is a test message. The content of the message is: {message}");
         //}
     }
+
 }
