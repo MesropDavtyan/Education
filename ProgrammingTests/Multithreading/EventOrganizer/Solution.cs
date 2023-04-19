@@ -10,12 +10,11 @@ namespace EventOrganizer
         bool isTriggered = false;
         List<Task> taskList = new List<Task>();
 
-        object obj1 = new object();
-        object obj2 = new object();
+        object locker = new object();
 
         public void SubmitTask(Task task)
         {
-            lock (obj1)
+            lock (locker)
             {
                 if (isTriggered)
                 {
@@ -30,7 +29,7 @@ namespace EventOrganizer
 
         public void Trigger()
         {
-            lock (obj2)
+            lock (locker)
             {
                 isTriggered = true;
                 foreach (var task in taskList)

@@ -22,48 +22,66 @@ class Program
     private static SemaphoreSlim slim = new SemaphoreSlim(3);
     private static SemaphoreSlim slim2 = new SemaphoreSlim(0, 3);
     private static int padding;
+    public static object locker = new object();
 
     public static void MutexDemo()
     {
         Console.WriteLine(Thread.CurrentThread.Name + " Wants to Enter Critical Section for processing");
-        if (mutex.WaitOne(15000))
-        {
-            try
-            {
-                //Blocks the current thread until the current WaitOne method receives a signal.  
-                //Wait until it is safe to enter. 
-                Console.WriteLine("Success: " + Thread.CurrentThread.Name + " is Processing now");
-                Thread.Sleep(2000);
-                Console.WriteLine("Exit: " + Thread.CurrentThread.Name + " is Completed its task");
-            }
-            finally
-            {
-                //Call the ReleaseMutex method to unblock so that other threads
-                //that are trying to gain ownership of the mutex can enter  
-                mutex.ReleaseMutex();
-                Console.WriteLine("Mutex is released");
-            }
-        }
+        //if (mutex.WaitOne(15000))
+        //{
+        //    try
+        //    {
+        //        //Blocks the current thread until the current WaitOne method receives a signal.  
+        //        //Wait until it is safe to enter. 
+        //        Console.WriteLine("Success: " + Thread.CurrentThread.Name + " is Processing now");
+        //        Thread.Sleep(2000);
+        //        Console.WriteLine("Exit: " + Thread.CurrentThread.Name + " is Completed its task");
+        //    }
+        //    finally
+        //    {
+        //        //Call the ReleaseMutex method to unblock so that other threads
+        //        //that are trying to gain ownership of the mutex can enter  
+        //        mutex.ReleaseMutex();
+        //        Console.WriteLine("Mutex is released");
+        //    }
+        //}
+
+        mutex.WaitOne();
+        Console.WriteLine("Success: " + Thread.CurrentThread.Name + " is Processing now");
+        Thread.Sleep(2000);
+        Console.WriteLine("Exit: " + Thread.CurrentThread.Name + " is Completed its task");
+        mutex.ReleaseMutex();
+        Console.WriteLine("Mutex is released");
     }
 
     public static void DoSomeTask()
     {
         Console.WriteLine($"{Thread.CurrentThread.Name} Wants to enter into Critical Section for processing");
-        try
-        {
-            //Blocks the current thread until the current WaitHandle receives a signal.
-            semaphore.WaitOne();
-            //Blocks the current thread until the current WaitHandle receives a signal.
-            Console.WriteLine($"Success: {Thread.CurrentThread.Name} is doing its work");
-            Thread.Sleep(3000);
-            Console.WriteLine($"{Thread.CurrentThread.Name} Exit.");
-        }
-        finally
-        {
-            //Release() method to release semaphore  
-            //Increase the Initial Count Variable by 1
-            semaphore.Release();
-        }
+        //try
+        //{
+        //    //Blocks the current thread until the current WaitHandle receives a signal.
+        //    semaphore.WaitOne();
+        //    //Blocks the current thread until the current WaitHandle receives a signal.
+        //    Console.WriteLine($"Success: {Thread.CurrentThread.Name} is doing its work");
+        //    Thread.Sleep(3000);
+        //    Console.WriteLine($"{Thread.CurrentThread.Name} Exit.");
+        //}
+        //finally
+        //{
+        //    //Release() method to release semaphore  
+        //    //Increase the Initial Count Variable by 1
+        //    semaphore.Release();
+        //}
+
+        //Blocks the current thread until the current WaitHandle receives a signal.
+        semaphore.WaitOne();
+        //Blocks the current thread until the current WaitHandle receives a signal.
+        Console.WriteLine($"Success: {Thread.CurrentThread.Name} is doing its work");
+        Thread.Sleep(3000);
+        Console.WriteLine($"{Thread.CurrentThread.Name} Exit.");
+        //Release() method to release semaphore  
+        //Increase the Initial Count Variable by 1
+        semaphore.Release();
     }
 
     public static void SemaphoreSlimFunction(string name, int seconds)
@@ -86,19 +104,24 @@ class Program
         Console.WriteLine("Some Method Ended.");
     }
 
+    static int counter = 0;
+    public static void LockTest()
+    {
+        lock (locker)
+        {
+            Console.WriteLine(counter++);
+        }
+    }
+
     static async Task Main(string[] args)
     {
         //================================================================================================================================
 
         //Foo myObj = new Foo();
 
-        //Task task1 = new Task(() => myObj.First(() => Console.Write("First")));
-        //Task task2 = new Task(() => myObj.Second(() => Console.Write("Second")));
-        //Task task3 = new Task(() => myObj.Third(() => Console.Write("Third")));
-
-        //task1.Start();
-        //task2.Start();
-        //task3.Start();
+        //Task.Run(() => myObj.First(() => Console.WriteLine("First")));
+        //Task.Run(() => myObj.Second(() => Console.WriteLine("Second")));
+        //Task.Run(() => myObj.Third(() => Console.WriteLine("Third")));
 
         //Console.ReadLine();
 
@@ -214,13 +237,34 @@ class Program
 
         //================================================================================================================================
 
-        Console.WriteLine("Main Method Started...");
+        //Console.WriteLine("Main Method Started...");
 
-        SomeMethod();
+        //SomeMethod();
 
-        Console.WriteLine("Main Method Ended.");
-        Console.ReadKey();
+        //Console.WriteLine("Main Method Ended.");
+        //Console.ReadKey();
 
         //================================================================================================================================
+
+        //for (int i = 1; i <= 10; i++)
+        //{
+        //    Thread threadObject = new Thread(LockTest);
+
+        //    threadObject.Start();
+        //}
+        //Console.ReadKey();
+
+        //================================================================================================================================
+
+        Solution solution = new Solution();
+
+        Task.Run(() => solution.SubmitTask(new Task(() => Console.WriteLine("Before Trigger 1"))));
+        Task.Run(() => solution.SubmitTask(new Task(() => Console.WriteLine("Before Trigger 2"))));
+        Task.Run(() => solution.SubmitTask(new Task(() => Console.WriteLine("Before Trigger 3"))));
+        Task.Run(() => solution.Trigger());
+        Task.Run(() => solution.SubmitTask(new Task(() => Console.WriteLine("After Trigger 1"))));
+        Task.Run(() => solution.SubmitTask(new Task(() => Console.WriteLine("After Trigger 2"))));
+
+        Console.ReadKey();
     }
 }

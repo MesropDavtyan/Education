@@ -1386,6 +1386,38 @@ namespace RemoveAll
 
             return true;
         }
+
+        //------------------------------------------------------------------------------------------------------------------------
+
+        public string ReverseVowels(string s)
+        {
+            HashSet<char> vowles = new() { 'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U' };
+            char[] chars = s.ToCharArray();
+            int left = 0;
+            int right = s.Length - 1;
+
+            while (left < right)
+            {
+                while (left < right && !vowles.Contains(s[left]))
+                {
+                    left++;
+                }
+
+                while (left < right && !vowles.Contains(s[right]))
+                {
+                    right--;
+                }
+
+                char temp = chars[left];
+                chars[left] = chars[right];
+                chars[right] = temp;
+
+                left++;
+                right--;
+            }
+
+            return new string(chars);
+        }
     }
 }
 
