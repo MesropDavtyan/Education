@@ -990,11 +990,11 @@ namespace Sandbox
             }
         }
 
-        public static void Main()
-        {
-            Console.WriteLine(Algotithm.FindMaxSubstringLength("abbbcc"));
-            Console.WriteLine(Algotithm.FindMaxSubstringLength("aabccaaaa"));
-        }
+        //public static void Main()
+        //{
+        //    Console.WriteLine(Algotithm.FindMaxSubstringLength("abbbcc"));
+        //    Console.WriteLine(Algotithm.FindMaxSubstringLength("aabccaaaa"));
+        //}
     }
 
     //----------------------------------------------------------------------------------------------------

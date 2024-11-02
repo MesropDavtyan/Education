@@ -256,14 +256,18 @@ class Program
 
         //================================================================================================================================
 
-        Solution solution = new Solution();
+        //Solution solution = new Solution();
 
-        Task.Run(() => solution.SubmitTask(new Task(() => Console.WriteLine("Before Trigger 1"))));
-        Task.Run(() => solution.SubmitTask(new Task(() => Console.WriteLine("Before Trigger 2"))));
-        Task.Run(() => solution.SubmitTask(new Task(() => Console.WriteLine("Before Trigger 3"))));
-        Task.Run(() => solution.Trigger());
-        Task.Run(() => solution.SubmitTask(new Task(() => Console.WriteLine("After Trigger 1"))));
-        Task.Run(() => solution.SubmitTask(new Task(() => Console.WriteLine("After Trigger 2"))));
+        //Task.Run(() => solution.SubmitTask(new Task(() => Console.WriteLine("Before Trigger 1"))));
+        //Task.Run(() => solution.SubmitTask(new Task(() => Console.WriteLine("Before Trigger 2"))));
+        //Task.Run(() => solution.SubmitTask(new Task(() => Console.WriteLine("Before Trigger 3"))));
+        //Task.Run(() => solution.Trigger());
+        //Task.Run(() => solution.SubmitTask(new Task(() => Console.WriteLine("After Trigger 1"))));
+        //Task.Run(() => solution.SubmitTask(new Task(() => Console.WriteLine("After Trigger 2"))));
+
+        //Console.ReadKey();
+
+        Task.Delay(5000).ContinueWith(t => Console.WriteLine(42));
 
         Console.ReadKey();
     }

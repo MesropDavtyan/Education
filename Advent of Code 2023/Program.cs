@@ -8,5 +8,7 @@
 //DayFour.Scratchcards(Path.GetFullPath("../../../InputData/input_day_4.txt"));
 //DayFour.ScratchcardsPartTwo(Path.GetFullPath("../../../InputData/input_day_4.txt"));
 
-DaySix.WaitForIt(Path.GetFullPath("../../../InputData/input_day_6.txt"));
-DaySix.WaitForItPartTwo(Path.GetFullPath("../../../InputData/input_day_6.txt"));
+//DaySix.WaitForIt(Path.GetFullPath("../../../InputData/input_day_6.txt"));
+//DaySix.WaitForItPartTwo(Path.GetFullPath("../../../InputData/input_day_6.txt"));
+
+DayEight.HauntedWasteland(Path.GetFullPath("../../../InputData/input_day_8.txt"));
